@@ -1,4 +1,7 @@
 #!/bin/ash
+
+mkdir logs
+
 rm -rf /home/container/tmp/*
 
 echo "Starting PHP-FPM..."
